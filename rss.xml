@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[colorilab-blog]]></title>
+        <description><![CDATA[colorilab-blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 00:54:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Filament super star is coming to you!]]></title>
+            <description><![CDATA[<article><h1>Filament super star is coming to you!</h1><p>The best évaluation ça se dit même pas pis c'est pas mal hot.</p></article>]]></description>
+            <link>undefinedfilament-super-star-is-coming-to-you/index.html</link>
+            <guid isPermaLink="false">aea95b3a-d664-407d-9710-9a48e46357e2</guid>
+            <pubDate>Sun, 21 Feb 2016 00:54:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
