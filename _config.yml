@@ -1,7 +1,7 @@
 name: colorilab-blog
 favicon: null
-layout_spectrum: 0.13761899527162313
-typography_spectrum: 0.5742177939973772
+layout_spectrum: 1
+typography_spectrum: 0.5997
 cta:
   domain: null
   bucket: null
