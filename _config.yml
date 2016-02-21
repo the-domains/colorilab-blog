@@ -1,0 +1,28 @@
+name: colorilab-blog
+favicon: null
+layout_spectrum: 0.13761899527162313
+typography_spectrum: 0.5742177939973772
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.458760981913656
+  lightness: 0.9992320768069476
+  saturation: 0.9078917831648141
+  rhythmicContrast: 0.01900119031779468
+purpose: []
